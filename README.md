@@ -1,2 +1,3 @@
-# college-management-system
-It's a College Manage System
+Project Name : college-management-system
+Description : It's a College Management System
+
